@@ -392,7 +392,7 @@ void Library::Return_book() {
 
 }
 
-//IMPLEMENTATION OF THE FUNCTION IN CPP FILE
+
 int Library::count() {
     //CREATE A POINTER TO BOOK
     Book *current = Book_head;

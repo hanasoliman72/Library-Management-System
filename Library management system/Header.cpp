@@ -37,6 +37,5 @@ public:
     static void Borrow();
     static void Return_book();
 
-    //THE FUNCTION IN THE HEADER FILE
     static int count();
 };
